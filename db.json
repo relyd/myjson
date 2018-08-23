@@ -1,0 +1,122 @@
+{
+  "Reply": {
+    "-xmlns:xs": "http://www.w3.org/2001/XMLSchema",
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-status": "SUCCESS",
+    "MetaInfo": {
+      "Warnings": {
+        "Warning": {
+          "code": "0029",
+          "pat_id": "mywldopowef",
+          "message": "12 records found. List truncated at position 2."
+        }
+      }
+    },
+    "SearchReportBmdw": {
+      "-match_dtime": "2018-03-18T21:53:39Z",
+      "-settings": "XXXXX/H/EQ////22:22:2222222222/00000/F/T/10:000:100/2/////",
+      "-inexp": "0",
+      "-total": "812",
+      "Patient": {
+        "pat_id": "74739",
+        "pat_type": "INT",
+        "match_dr": "0:XX:61:0921XX21XX/",
+        "match_cb": "0:XX:62:2221XX22XX/",
+        "dna_a": {
+          "code1": { "value": "21:02" },
+          "code2": { "value": "21:07" }
+        },
+        "dna_b": {
+          "code1": { "value": "00:21" },
+          "code2": { "value": "21:01" }
+        },
+        "dna_c": {
+          "code1": { "value": "04:33" },
+          "code2": { "value": "00:01" }
+        },
+        "drb1": {
+          "code1": { "value": "09:05" },
+          "code2": { "value": "09:02" }
+        },
+        "dqb1": {
+          "code1": { "value": "01:01" },
+          "code2": { "value": "01:01" }
+        }
+      },
+      "Donor": [
+        {
+          "don_ser": "692831",
+          "don_id": "od9c",
+          "don_type": "C",
+          "don_pool": "9999",
+          "dob": "2010-12-22",
+          "don_stat": "AV",
+          "vol_frzn": "390",
+          "tnc_frzn": "480",
+          "bank_manuf_id": "9999",
+          "dna_a": {
+            "code1": { "value": "24:XX" },
+            "code2": { "value": "24:XX" }
+          },
+          "dna_b": {
+            "code1": { "value": "15:XX" },
+            "code2": { "value": "48:XX" }
+          },
+          "drb1": {
+            "code1": { "value": "04:XX" },
+            "code2": { "value": "15:XX" }
+          },
+          "match_class": "10/10/X",
+          "match_grade": "0X/954/9999-9999-9999-4-9500/00/0-0000/0/0000000000068441831",
+          "nmdp_grade": "PPPPP",
+          "p0": "1",
+          "p1": "1",
+          "p2": "1",
+          "pa": "2",
+          "pb": "1",
+          "pc": "1",
+          "pdr": "2",
+          "pdq": "2",
+          "diff_string": "AAAAAAAAAA",
+          "inexp": "0"
+        },
+        {
+          "don_ser": "692831",
+          "don_id": "od9c",
+          "don_type": "C",
+          "don_pool": "9999",
+          "dob": "2010-12-22",
+          "don_stat": "AV",
+          "vol_frzn": "390",
+          "tnc_frzn": "480",
+          "bank_manuf_id": "9999",
+          "dna_a": {
+            "code1": { "value": "24:XX" },
+            "code2": { "value": "24:XX" }
+          },
+          "dna_b": {
+            "code1": { "value": "15:XX" },
+            "code2": { "value": "48:XX" }
+          },
+          "drb1": {
+            "code1": { "value": "04:XX" },
+            "code2": { "value": "15:XX" }
+          },
+          "match_class": "10/10/X",
+          "match_grade": "0X/954/9999-9999-9999-4-9500/00/0-0000/0/0000000000068441831",
+          "nmdp_grade": "PPPPP",
+          "p0": "1",
+          "p1": "1",
+          "p2": "1",
+          "pa": "2",
+          "pb": "1",
+          "pc": "1",
+          "pdr": "2",
+          "pdq": "2",
+          "diff_string": "AAAAAAAAAA",
+          "inexp": "0"
+        }
+      ]
+    }
+  }
+}
